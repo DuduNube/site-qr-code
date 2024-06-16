@@ -1,1 +1,1 @@
-Este é meu primeiro projeto em prohgramação web, desafio provido pelo "Frontend Mentor"
+Este é meu primeiro projeto em programação web usando as linguagens de programação (HTML e CSS), desafio provido pelo "Frontend Mentor"
