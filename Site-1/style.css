@@ -25,6 +25,7 @@ text-transform: uppercase;
 }
 
 .card {
+  margin-top: 20%;
   width: 30%;
   height: 30%;
   background-color: white;
