@@ -19,8 +19,8 @@ text-transform: uppercase;
 }
 
 .card {
-  width: 55vh;
-  height: 90vh;
+  width: 55em;
+  height: 90em;
   padding: 1%;
   background-color: white;
   align-content: center;
