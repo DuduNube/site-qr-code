@@ -20,13 +20,13 @@ body {
 }
 
 h1 {
-font-size: x-large;
+font-size: large;
 text-transform: uppercase;
 }
 
 .card {
-  width: 55em;
-  height: 90em;
+  width: 55px;
+  height: 90px;
   padding: 1%;
   background-color: white;
   align-content: center;
