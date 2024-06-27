@@ -1,3 +1,9 @@
+@media (max-width: 768px) {
+  .card {
+    height: auto;
+    padding: 3%;
+  }
+
 * {
   text-align: center;
   font-size: small;
